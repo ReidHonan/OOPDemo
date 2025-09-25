@@ -1,2 +1,2 @@
 print("hello, world!")
-print("Push this time")
+print("Push next time")
