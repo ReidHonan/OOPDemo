@@ -28,6 +28,6 @@ print(dem)
 
 def stubMethod():
     # todo: fill in later
-    return 0
+    return -1
 
 
