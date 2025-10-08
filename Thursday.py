@@ -31,3 +31,4 @@ def stubMethod():
     return -1
 
 
+dem = 456
