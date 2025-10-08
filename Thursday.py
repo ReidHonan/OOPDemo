@@ -26,4 +26,8 @@ def subtraction(a, b):
 dem = 123
 print(dem)
 
+def stubMethod():
+    # todo: fill in later
+    return 0
+
 
